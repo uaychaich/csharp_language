@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SamplePropertyMethod
-build_property.ProjectDir = /workspaces/csharp_language/08_ac88_properties_methods/solution/SamplePropertyMethod/
+build_property.ProjectDir = /mnt/UayStore/git/csharp_language/08_ac88_properties_methods/solution/SamplePropertyMethod/

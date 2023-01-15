@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SamplePartial
-build_property.ProjectDir = /workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/
+build_property.ProjectDir = /mnt/UayStore/git/csharp_language/21_32ab_partial/solution/SamplePartial/
