@@ -1,0 +1,15 @@
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/bin/Debug/net7.0/SampleRecord
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/bin/Debug/net7.0/SampleRecord.deps.json
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/bin/Debug/net7.0/SampleRecord.runtimeconfig.json
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/bin/Debug/net7.0/SampleRecord.dll
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/bin/Debug/net7.0/SampleRecord.pdb
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.csproj.AssemblyReference.cache
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.AssemblyInfoInputs.cache
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.AssemblyInfo.cs
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.csproj.CoreCompileInputs.cache
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.dll
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/refint/SampleRecord.dll
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.pdb
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/SampleRecord.genruntimeconfig.cache
+/mnt/UayStore/git/csharp_language/24_e5bd_records/solution/SampleRecord/obj/Debug/net7.0/ref/SampleRecord.dll

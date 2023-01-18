@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+    Author: Uaychai Chotjaratwanich
+    Modified Date: 2023-01-18
+*/
+
+Console.WriteLine("Uaychai");
