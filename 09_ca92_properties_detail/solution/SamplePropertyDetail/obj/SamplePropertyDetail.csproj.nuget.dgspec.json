@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj": {}
+    "/mnt/UayStore/git/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj": {}
   },
   "projects": {
-    "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj": {
+    "/mnt/UayStore/git/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj",
+        "projectUniqueName": "/mnt/UayStore/git/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj",
         "projectName": "SamplePropertyDetail",
-        "projectPath": "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/obj/",
+        "projectPath": "/mnt/UayStore/git/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/SamplePropertyDetail.csproj",
+        "packagesPath": "/home/uaychai/.nuget/packages/",
+        "outputPath": "/mnt/UayStore/git/csharp_language/09_ca92_properties_detail/solution/SamplePropertyDetail/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/uaychai/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.101/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
