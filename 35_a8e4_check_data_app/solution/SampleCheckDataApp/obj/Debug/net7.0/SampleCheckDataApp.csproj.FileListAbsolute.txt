@@ -1,0 +1,15 @@
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.csproj.AssemblyReference.cache
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.AssemblyInfoInputs.cache
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.AssemblyInfo.cs
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.csproj.CoreCompileInputs.cache
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/bin/Debug/net7.0/SampleCheckDataApp
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/bin/Debug/net7.0/SampleCheckDataApp.deps.json
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/bin/Debug/net7.0/SampleCheckDataApp.runtimeconfig.json
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/bin/Debug/net7.0/SampleCheckDataApp.dll
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/bin/Debug/net7.0/SampleCheckDataApp.pdb
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.dll
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/refint/SampleCheckDataApp.dll
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.pdb
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/SampleCheckDataApp.genruntimeconfig.cache
+/mnt/UayStore/git/csharp_language/35_a8e4_check_data_app/solution/SampleCheckDataApp/obj/Debug/net7.0/ref/SampleCheckDataApp.dll
