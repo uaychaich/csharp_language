@@ -1,0 +1,15 @@
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.csproj.AssemblyReference.cache
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.AssemblyInfoInputs.cache
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.AssemblyInfo.cs
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.csproj.CoreCompileInputs.cache
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/bin/Debug/net7.0/SampleAsynchronous
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/bin/Debug/net7.0/SampleAsynchronous.deps.json
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/bin/Debug/net7.0/SampleAsynchronous.runtimeconfig.json
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/bin/Debug/net7.0/SampleAsynchronous.dll
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/bin/Debug/net7.0/SampleAsynchronous.pdb
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.dll
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/refint/SampleAsynchronous.dll
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.pdb
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/SampleAsynchronous.genruntimeconfig.cache
+/mnt/UayStore/git/csharp_language/36_0e79_asynchronous/solution/SampleAsynchronous/obj/Debug/net7.0/ref/SampleAsynchronous.dll
