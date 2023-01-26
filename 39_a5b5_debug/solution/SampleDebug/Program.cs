@@ -5,5 +5,5 @@
 using System.Diagnostics;
 
 Console.WriteLine("Uaychai is here");
-int a = 5; Debug.Write($"Debug a:{a}");
+int a = 5; Debug.WriteLine($"Debug a:{a}");
 Console.WriteLine(a);
