@@ -16,4 +16,4 @@ UayClass4 uc41 = new UayClass4();
 UayClass777 uc7771 = new UayClass777();
 uc7771.aaa = 5;
 
-DbContext dc;
+Console.WriteLine(EF.Functions.GetType());

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3In+rrrHK9R6ZgcAMMOKsK/ffOU0S5pEFejJyDa9KthrrP3gtLSWep7c+dY9j4QDzwnQA/jGN4whNhzvZ4hITw==",
+  "dgSpecHash": "dRCxbu74aPpWQHlzA1pkxWqiHMHT/0xffSqbxfApb7iJRAKt5s9uxBPu65uvl/lN4/LaUfQsVbiwHZEzTxz8pQ==",
   "success": true,
-  "projectFilePath": "C:\\csharp_language\\01_3628_helloworld\\solution\\helloworld\\helloworld.csproj",
+  "projectFilePath": "/mnt/UayStore/git/csharp_language/01_3628_helloworld/solution/helloworld/helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

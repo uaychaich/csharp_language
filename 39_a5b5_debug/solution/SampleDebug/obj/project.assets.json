@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/UayStore/git/csharp_language/01_3628_helloworld/solution/helloworld/helloworld.csproj",
-      "projectName": "helloworld",
-      "projectPath": "/mnt/UayStore/git/csharp_language/01_3628_helloworld/solution/helloworld/helloworld.csproj",
+      "projectUniqueName": "/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/SampleDebug.csproj",
+      "projectName": "SampleDebug",
+      "projectPath": "/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/SampleDebug.csproj",
       "packagesPath": "/home/uaychai/.nuget/packages/",
-      "outputPath": "/mnt/UayStore/git/csharp_language/01_3628_helloworld/solution/helloworld/obj/",
+      "outputPath": "/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/uaychai/.nuget/NuGet/NuGet.Config"
