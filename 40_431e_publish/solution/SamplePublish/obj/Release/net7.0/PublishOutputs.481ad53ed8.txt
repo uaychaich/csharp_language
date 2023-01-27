@@ -1,5 +1,0 @@
-/mnt/UayStore/git/csharp_language/40_431e_publish/solution/SamplePublish/bin/Release/net7.0/publish/SamplePublish
-/mnt/UayStore/git/csharp_language/40_431e_publish/solution/SamplePublish/bin/Release/net7.0/publish/SamplePublish.dll
-/mnt/UayStore/git/csharp_language/40_431e_publish/solution/SamplePublish/bin/Release/net7.0/publish/SamplePublish.deps.json
-/mnt/UayStore/git/csharp_language/40_431e_publish/solution/SamplePublish/bin/Release/net7.0/publish/SamplePublish.runtimeconfig.json
-/mnt/UayStore/git/csharp_language/40_431e_publish/solution/SamplePublish/bin/Release/net7.0/publish/SamplePublish.pdb
