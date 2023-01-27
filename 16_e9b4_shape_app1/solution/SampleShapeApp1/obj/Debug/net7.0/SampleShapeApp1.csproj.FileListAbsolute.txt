@@ -1,0 +1,15 @@
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.csproj.AssemblyReference.cache
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.AssemblyInfoInputs.cache
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.AssemblyInfo.cs
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/bin/Debug/net7.0/SampleShapeApp1
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/bin/Debug/net7.0/SampleShapeApp1.deps.json
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/bin/Debug/net7.0/SampleShapeApp1.runtimeconfig.json
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/bin/Debug/net7.0/SampleShapeApp1.dll
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/bin/Debug/net7.0/SampleShapeApp1.pdb
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.dll
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/refint/SampleShapeApp1.dll
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.pdb
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/SampleShapeApp1.genruntimeconfig.cache
+/workspaces/csharp_language/16_e9b4_shape_app1/solution/SampleShapeApp1/obj/Debug/net7.0/ref/SampleShapeApp1.dll

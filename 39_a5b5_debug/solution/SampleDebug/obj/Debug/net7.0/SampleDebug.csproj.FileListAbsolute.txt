@@ -1,0 +1,15 @@
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/bin/Debug/net7.0/SampleDebug
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/bin/Debug/net7.0/SampleDebug.deps.json
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/bin/Debug/net7.0/SampleDebug.runtimeconfig.json
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/bin/Debug/net7.0/SampleDebug.dll
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/bin/Debug/net7.0/SampleDebug.pdb
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.csproj.AssemblyReference.cache
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.AssemblyInfoInputs.cache
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.AssemblyInfo.cs
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.csproj.CoreCompileInputs.cache
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.dll
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/refint/SampleDebug.dll
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.pdb
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/SampleDebug.genruntimeconfig.cache
+/mnt/UayStore/git/csharp_language/39_a5b5_debug/solution/SampleDebug/obj/Debug/net7.0/ref/SampleDebug.dll

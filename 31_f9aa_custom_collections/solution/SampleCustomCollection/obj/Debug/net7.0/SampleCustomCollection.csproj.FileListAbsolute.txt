@@ -1,0 +1,15 @@
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/bin/Debug/net7.0/SampleCustomCollection
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/bin/Debug/net7.0/SampleCustomCollection.deps.json
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/bin/Debug/net7.0/SampleCustomCollection.runtimeconfig.json
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/bin/Debug/net7.0/SampleCustomCollection.dll
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/bin/Debug/net7.0/SampleCustomCollection.pdb
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.csproj.AssemblyReference.cache
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.AssemblyInfoInputs.cache
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.AssemblyInfo.cs
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.dll
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/refint/SampleCustomCollection.dll
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.pdb
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/SampleCustomCollection.genruntimeconfig.cache
+/workspaces/csharp_language/28_f9aa_custom_collections/solution/SampleCustomCollection/obj/Debug/net7.0/ref/SampleCustomCollection.dll

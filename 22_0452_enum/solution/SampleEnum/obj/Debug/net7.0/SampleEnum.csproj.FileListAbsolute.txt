@@ -1,0 +1,15 @@
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/bin/Debug/net7.0/SampleEnum
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/bin/Debug/net7.0/SampleEnum.deps.json
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/bin/Debug/net7.0/SampleEnum.runtimeconfig.json
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/bin/Debug/net7.0/SampleEnum.dll
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/bin/Debug/net7.0/SampleEnum.pdb
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.csproj.AssemblyReference.cache
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.AssemblyInfoInputs.cache
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.AssemblyInfo.cs
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.dll
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/refint/SampleEnum.dll
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.pdb
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/SampleEnum.genruntimeconfig.cache
+/workspaces/csharp_language/22_0452_enum/solution/SampleEnum/obj/Debug/net7.0/ref/SampleEnum.dll

@@ -1,0 +1,15 @@
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.csproj.AssemblyReference.cache
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.AssemblyInfoInputs.cache
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.AssemblyInfo.cs
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.csproj.CoreCompileInputs.cache
+C:\csharp_language\02_4094_statements\solution\SampleStatements\bin\Debug\net7.0\SampleStatements.exe
+C:\csharp_language\02_4094_statements\solution\SampleStatements\bin\Debug\net7.0\SampleStatements.deps.json
+C:\csharp_language\02_4094_statements\solution\SampleStatements\bin\Debug\net7.0\SampleStatements.runtimeconfig.json
+C:\csharp_language\02_4094_statements\solution\SampleStatements\bin\Debug\net7.0\SampleStatements.dll
+C:\csharp_language\02_4094_statements\solution\SampleStatements\bin\Debug\net7.0\SampleStatements.pdb
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.dll
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\refint\SampleStatements.dll
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.pdb
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\SampleStatements.genruntimeconfig.cache
+C:\csharp_language\02_4094_statements\solution\SampleStatements\obj\Debug\net7.0\ref\SampleStatements.dll

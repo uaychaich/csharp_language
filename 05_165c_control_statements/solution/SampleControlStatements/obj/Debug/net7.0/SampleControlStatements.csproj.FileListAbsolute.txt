@@ -1,0 +1,15 @@
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.csproj.AssemblyReference.cache
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.AssemblyInfoInputs.cache
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.AssemblyInfo.cs
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.csproj.CoreCompileInputs.cache
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\bin\Debug\net7.0\SampleControlStatements.exe
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\bin\Debug\net7.0\SampleControlStatements.deps.json
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\bin\Debug\net7.0\SampleControlStatements.runtimeconfig.json
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\bin\Debug\net7.0\SampleControlStatements.dll
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\bin\Debug\net7.0\SampleControlStatements.pdb
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.dll
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\refint\SampleControlStatements.dll
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.pdb
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\SampleControlStatements.genruntimeconfig.cache
+C:\csharp_language\05_165c_control_statements\solution\samplecontrolstatements\obj\Debug\net7.0\ref\SampleControlStatements.dll

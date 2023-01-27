@@ -1,0 +1,15 @@
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/bin/Debug/net7.0/SampleInheritance
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/bin/Debug/net7.0/SampleInheritance.deps.json
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/bin/Debug/net7.0/SampleInheritance.runtimeconfig.json
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/bin/Debug/net7.0/SampleInheritance.dll
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/bin/Debug/net7.0/SampleInheritance.pdb
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.csproj.AssemblyReference.cache
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.AssemblyInfoInputs.cache
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.AssemblyInfo.cs
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.dll
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/refint/SampleInheritance.dll
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.pdb
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/SampleInheritance.genruntimeconfig.cache
+/workspaces/csharp_language/12_207f_inheritance/solution/SampleInheritance/obj/Debug/net7.0/ref/SampleInheritance.dll

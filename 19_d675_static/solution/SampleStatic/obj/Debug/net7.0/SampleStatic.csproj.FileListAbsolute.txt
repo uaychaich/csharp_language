@@ -1,0 +1,15 @@
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.csproj.AssemblyReference.cache
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.AssemblyInfoInputs.cache
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.AssemblyInfo.cs
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/bin/Debug/net7.0/SampleStatic
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/bin/Debug/net7.0/SampleStatic.deps.json
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/bin/Debug/net7.0/SampleStatic.runtimeconfig.json
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/bin/Debug/net7.0/SampleStatic.dll
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/bin/Debug/net7.0/SampleStatic.pdb
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.dll
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/refint/SampleStatic.dll
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.pdb
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/SampleStatic.genruntimeconfig.cache
+/workspaces/csharp_language/19_d675_static/solution/SampleStatic/obj/Debug/net7.0/ref/SampleStatic.dll

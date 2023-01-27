@@ -1,0 +1,12 @@
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/bin/Debug/net7.0/DLLProject2.deps.json
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/bin/Debug/net7.0/DLLProject2.dll
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/bin/Debug/net7.0/DLLProject2.pdb
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.csproj.AssemblyReference.cache
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.AssemblyInfoInputs.cache
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.AssemblyInfo.cs
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.csproj.CoreCompileInputs.cache
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.dll
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/refint/DLLProject2.dll
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/DLLProject2.pdb
+/mnt/UayStore/git/csharp_language/38_e94f_solution_namespace/solution/UaySolution/DLLProject2/obj/Debug/net7.0/ref/DLLProject2.dll

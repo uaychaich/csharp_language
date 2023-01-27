@@ -1,0 +1,15 @@
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/bin/Debug/net7.0/SampleConstructor
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/bin/Debug/net7.0/SampleConstructor.deps.json
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/bin/Debug/net7.0/SampleConstructor.runtimeconfig.json
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/bin/Debug/net7.0/SampleConstructor.dll
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/bin/Debug/net7.0/SampleConstructor.pdb
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.csproj.AssemblyReference.cache
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.AssemblyInfoInputs.cache
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.AssemblyInfo.cs
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.dll
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/refint/SampleConstructor.dll
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.pdb
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/SampleConstructor.genruntimeconfig.cache
+/workspaces/csharp_language/11_25c5_constructor/solution/SampleConstructor/obj/Debug/net7.0/ref/SampleConstructor.dll

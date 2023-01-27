@@ -1,0 +1,15 @@
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.csproj.AssemblyReference.cache
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.AssemblyInfoInputs.cache
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.AssemblyInfo.cs
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/bin/Debug/net7.0/SampleEvent
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/bin/Debug/net7.0/SampleEvent.deps.json
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/bin/Debug/net7.0/SampleEvent.runtimeconfig.json
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/bin/Debug/net7.0/SampleEvent.dll
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/bin/Debug/net7.0/SampleEvent.pdb
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.dll
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/refint/SampleEvent.dll
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.pdb
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/SampleEvent.genruntimeconfig.cache
+/workspaces/csharp_language/26_7b31_events/solution/SampleEvent/obj/Debug/net7.0/ref/SampleEvent.dll

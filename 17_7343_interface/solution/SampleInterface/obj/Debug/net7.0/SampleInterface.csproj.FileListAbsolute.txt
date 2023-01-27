@@ -1,0 +1,15 @@
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.csproj.AssemblyReference.cache
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.AssemblyInfoInputs.cache
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.AssemblyInfo.cs
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/bin/Debug/net7.0/SampleInterface
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/bin/Debug/net7.0/SampleInterface.deps.json
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/bin/Debug/net7.0/SampleInterface.runtimeconfig.json
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/bin/Debug/net7.0/SampleInterface.dll
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/bin/Debug/net7.0/SampleInterface.pdb
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.dll
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/refint/SampleInterface.dll
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.pdb
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/SampleInterface.genruntimeconfig.cache
+/workspaces/csharp_language/17_7343_interface/solution/SampleInterface/obj/Debug/net7.0/ref/SampleInterface.dll

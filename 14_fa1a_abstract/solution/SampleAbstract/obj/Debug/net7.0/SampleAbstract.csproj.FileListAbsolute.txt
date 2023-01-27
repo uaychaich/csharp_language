@@ -1,0 +1,15 @@
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.csproj.AssemblyReference.cache
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.AssemblyInfoInputs.cache
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.AssemblyInfo.cs
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/bin/Debug/net7.0/SampleAbstract
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/bin/Debug/net7.0/SampleAbstract.deps.json
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/bin/Debug/net7.0/SampleAbstract.runtimeconfig.json
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/bin/Debug/net7.0/SampleAbstract.dll
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/bin/Debug/net7.0/SampleAbstract.pdb
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.dll
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/refint/SampleAbstract.dll
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.pdb
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/SampleAbstract.genruntimeconfig.cache
+/workspaces/csharp_language/14_fa1a_abstract/solution/SampleAbstract/obj/Debug/net7.0/ref/SampleAbstract.dll

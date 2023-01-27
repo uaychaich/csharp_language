@@ -1,0 +1,15 @@
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\bin\Debug\net7.0\SamplePropertyMethod.exe
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\bin\Debug\net7.0\SamplePropertyMethod.deps.json
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\bin\Debug\net7.0\SamplePropertyMethod.runtimeconfig.json
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\bin\Debug\net7.0\SamplePropertyMethod.dll
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\bin\Debug\net7.0\SamplePropertyMethod.pdb
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.csproj.AssemblyReference.cache
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.AssemblyInfoInputs.cache
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.AssemblyInfo.cs
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.csproj.CoreCompileInputs.cache
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.dll
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\refint\SamplePropertyMethod.dll
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.pdb
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\SamplePropertyMethod.genruntimeconfig.cache
+C:\csharp_language\08_ac88_properties_methods\solution\SamplePropertyMethod\obj\Debug\net7.0\ref\SamplePropertyMethod.dll

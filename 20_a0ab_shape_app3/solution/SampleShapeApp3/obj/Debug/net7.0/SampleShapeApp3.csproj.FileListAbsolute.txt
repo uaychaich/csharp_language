@@ -1,0 +1,15 @@
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.csproj.AssemblyReference.cache
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.AssemblyInfoInputs.cache
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.AssemblyInfo.cs
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/bin/Debug/net7.0/SampleShapeApp3
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/bin/Debug/net7.0/SampleShapeApp3.deps.json
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/bin/Debug/net7.0/SampleShapeApp3.runtimeconfig.json
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/bin/Debug/net7.0/SampleShapeApp3.dll
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/bin/Debug/net7.0/SampleShapeApp3.pdb
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.dll
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/refint/SampleShapeApp3.dll
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.pdb
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/SampleShapeApp3.genruntimeconfig.cache
+/workspaces/csharp_language/20_a0ab_shape_app3/solution/SampleShapeApp3/obj/Debug/net7.0/ref/SampleShapeApp3.dll

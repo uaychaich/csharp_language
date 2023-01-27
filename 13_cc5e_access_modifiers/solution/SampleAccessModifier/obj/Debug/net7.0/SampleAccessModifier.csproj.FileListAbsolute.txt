@@ -1,0 +1,15 @@
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/bin/Debug/net7.0/SampleAccessModifier
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/bin/Debug/net7.0/SampleAccessModifier.deps.json
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/bin/Debug/net7.0/SampleAccessModifier.runtimeconfig.json
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/bin/Debug/net7.0/SampleAccessModifier.dll
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/bin/Debug/net7.0/SampleAccessModifier.pdb
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.csproj.AssemblyReference.cache
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.AssemblyInfoInputs.cache
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.AssemblyInfo.cs
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.dll
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/refint/SampleAccessModifier.dll
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.pdb
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/SampleAccessModifier.genruntimeconfig.cache
+/workspaces/csharp_language/13_cc5e_access_modifiers/solution/SampleAccessModifier/obj/Debug/net7.0/ref/SampleAccessModifier.dll

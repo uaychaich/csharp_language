@@ -1,0 +1,15 @@
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\bin\Debug\net7.0\SampleOperators.exe
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\bin\Debug\net7.0\SampleOperators.deps.json
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\bin\Debug\net7.0\SampleOperators.runtimeconfig.json
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\bin\Debug\net7.0\SampleOperators.dll
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\bin\Debug\net7.0\SampleOperators.pdb
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.csproj.AssemblyReference.cache
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.AssemblyInfoInputs.cache
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.AssemblyInfo.cs
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.csproj.CoreCompileInputs.cache
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.dll
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\refint\SampleOperators.dll
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.pdb
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\SampleOperators.genruntimeconfig.cache
+C:\csharp_language\04_b5fb_operators\solution\SampleOperators\obj\Debug\net7.0\ref\SampleOperators.dll

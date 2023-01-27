@@ -1,0 +1,15 @@
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/bin/Debug/net7.0/SampleDelegate
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/bin/Debug/net7.0/SampleDelegate.deps.json
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/bin/Debug/net7.0/SampleDelegate.runtimeconfig.json
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/bin/Debug/net7.0/SampleDelegate.dll
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/bin/Debug/net7.0/SampleDelegate.pdb
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.csproj.AssemblyReference.cache
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.AssemblyInfoInputs.cache
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.AssemblyInfo.cs
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.dll
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/refint/SampleDelegate.dll
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.pdb
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/SampleDelegate.genruntimeconfig.cache
+/workspaces/csharp_language/25_8358_delegates/solution/SampleDelegate/obj/Debug/net7.0/ref/SampleDelegate.dll

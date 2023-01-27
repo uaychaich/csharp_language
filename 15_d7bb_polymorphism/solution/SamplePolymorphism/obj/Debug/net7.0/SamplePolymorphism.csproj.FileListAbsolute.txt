@@ -1,0 +1,15 @@
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.csproj.AssemblyReference.cache
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.AssemblyInfoInputs.cache
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.AssemblyInfo.cs
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/bin/Debug/net7.0/SamplePolymorphism
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/bin/Debug/net7.0/SamplePolymorphism.deps.json
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/bin/Debug/net7.0/SamplePolymorphism.runtimeconfig.json
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/bin/Debug/net7.0/SamplePolymorphism.dll
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/bin/Debug/net7.0/SamplePolymorphism.pdb
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.dll
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/refint/SamplePolymorphism.dll
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.pdb
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/SamplePolymorphism.genruntimeconfig.cache
+/workspaces/csharp_language/15_d7bb_polymorphism/solution/SamplePolymorphism/obj/Debug/net7.0/ref/SamplePolymorphism.dll

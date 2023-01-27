@@ -1,0 +1,15 @@
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\bin\Debug\net7.0\SampleHandleErrors.exe
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\bin\Debug\net7.0\SampleHandleErrors.deps.json
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\bin\Debug\net7.0\SampleHandleErrors.runtimeconfig.json
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\bin\Debug\net7.0\SampleHandleErrors.dll
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\bin\Debug\net7.0\SampleHandleErrors.pdb
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.csproj.AssemblyReference.cache
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.AssemblyInfoInputs.cache
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.AssemblyInfo.cs
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.csproj.CoreCompileInputs.cache
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.dll
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\refint\SampleHandleErrors.dll
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.pdb
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\SampleHandleErrors.genruntimeconfig.cache
+C:\csharp_language\06_4366_handle_errors\solution\SampleHandleErrors\obj\Debug\net7.0\ref\SampleHandleErrors.dll

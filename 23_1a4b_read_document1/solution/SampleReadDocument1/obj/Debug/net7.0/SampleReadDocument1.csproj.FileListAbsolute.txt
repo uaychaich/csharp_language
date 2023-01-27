@@ -1,0 +1,15 @@
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/bin/Debug/net7.0/SampleReadDocument1
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/bin/Debug/net7.0/SampleReadDocument1.deps.json
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/bin/Debug/net7.0/SampleReadDocument1.runtimeconfig.json
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/bin/Debug/net7.0/SampleReadDocument1.dll
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/bin/Debug/net7.0/SampleReadDocument1.pdb
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.csproj.AssemblyReference.cache
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.AssemblyInfoInputs.cache
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.AssemblyInfo.cs
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.dll
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/refint/SampleReadDocument1.dll
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.pdb
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/SampleReadDocument1.genruntimeconfig.cache
+/workspaces/csharp_language/23_1a4b_read_document1/solution/SampleReadDocument1/obj/Debug/net7.0/ref/SampleReadDocument1.dll

@@ -1,0 +1,15 @@
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/bin/Debug/net7.0/SamplePartial
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/bin/Debug/net7.0/SamplePartial.deps.json
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/bin/Debug/net7.0/SamplePartial.runtimeconfig.json
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/bin/Debug/net7.0/SamplePartial.dll
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/bin/Debug/net7.0/SamplePartial.pdb
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.csproj.AssemblyReference.cache
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.AssemblyInfoInputs.cache
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.AssemblyInfo.cs
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.csproj.CoreCompileInputs.cache
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.dll
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/refint/SamplePartial.dll
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.pdb
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/SamplePartial.genruntimeconfig.cache
+/workspaces/csharp_language/21_32ab_partial/solution/SamplePartial/obj/Debug/net7.0/ref/SamplePartial.dll
