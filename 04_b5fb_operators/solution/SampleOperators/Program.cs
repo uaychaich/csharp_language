@@ -58,3 +58,5 @@ var h1 = "c:\\yoda\\uaychai.txt"; Console.WriteLine(h1);
 var h2 = @"c:\yoda\uaychai.txt"; Console.WriteLine(h2);
 var h3 = "This is the result: " + h1 + " " + h2; Console.WriteLine(h3);
 var h4 = $"This is the result: {h1} {h2}"; Console.WriteLine(h4);
+var h5 = 20;
+var h6 = $"This is the result: {h5:##.00}"; Console.WriteLine(h6);

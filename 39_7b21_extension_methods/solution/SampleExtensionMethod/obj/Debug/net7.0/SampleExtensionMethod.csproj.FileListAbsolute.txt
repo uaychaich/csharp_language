@@ -1,0 +1,15 @@
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/bin/Debug/net7.0/SampleExtensionMethod
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/bin/Debug/net7.0/SampleExtensionMethod.deps.json
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/bin/Debug/net7.0/SampleExtensionMethod.runtimeconfig.json
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/bin/Debug/net7.0/SampleExtensionMethod.dll
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/bin/Debug/net7.0/SampleExtensionMethod.pdb
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.csproj.AssemblyReference.cache
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.AssemblyInfoInputs.cache
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.AssemblyInfo.cs
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.csproj.CoreCompileInputs.cache
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.dll
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/refint/SampleExtensionMethod.dll
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.pdb
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/SampleExtensionMethod.genruntimeconfig.cache
+/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/Debug/net7.0/ref/SampleExtensionMethod.dll

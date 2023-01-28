@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/UayStore/git/csharp_language/04_b5fb_operators/solution/SampleOperators/SampleOperators.csproj",
-      "projectName": "SampleOperators",
-      "projectPath": "/mnt/UayStore/git/csharp_language/04_b5fb_operators/solution/SampleOperators/SampleOperators.csproj",
+      "projectUniqueName": "/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/SampleExtensionMethod.csproj",
+      "projectName": "SampleExtensionMethod",
+      "projectPath": "/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/SampleExtensionMethod.csproj",
       "packagesPath": "/home/uaychai/.nuget/packages/",
-      "outputPath": "/mnt/UayStore/git/csharp_language/04_b5fb_operators/solution/SampleOperators/obj/",
+      "outputPath": "/mnt/UayStore/git/csharp_language/39_7b21_extension_methods/solution/SampleExtensionMethod/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/uaychai/.nuget/NuGet/NuGet.Config"
